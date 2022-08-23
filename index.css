@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+body {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+}
+
+#save {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
+
+.block {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+#content {
+    top: 5px;
+    bottom: 20px;
+    border: 1px solid black;
+    height: 50vh;
+    padding: 5px;
+    margin: 5px;
+    flex: auto;
+    overflow: auto; 
+}
+
+.filepath {
+    margin: 5px;
+}
+
+.descriptionbox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "starboundmodmaker",
+  "version": "1.0.0",
+  "description": "A tool built on electron to make modding starbound easier",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaMeece/starboundmodmaker.git"
+  },
+  "author": "AlphaMeece",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlphaMeece/starboundmodmaker/issues"
+  },
+  "homepage": "https://github.com/AlphaMeece/starboundmodmaker#readme",
+  "dependencies": {
+    "electron": "^20.0.2",
+    "electron-reload": "^2.0.0-alpha.1",
+    "electron-reloader": "^1.2.3"
+  }
+}

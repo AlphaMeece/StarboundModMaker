@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Starbound Mod Maker</title>
+    <!-- https://electronjs.org/docs/tutorial
+                           /security#csp-meta-tag -->
+    <meta http-equiv="Content-Security-Policy" 
+          content="script-src 'self' 'unsafe-inline';" />
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" type="text/css" href="./google-code-prettify/prettify.css">
+  </head>
+  <body onload="PR.prettyPrint()">
+    <h1 class="title">Starbound Mod Maker</h1>
+    <div class="title">
+      Creating a(n):
+      <select id="type">
+        <option value="object" selected>Object</option>
+        <option value="item">Item</option>
+        <option value="weapon">Weapon</option>
+        <option value="armor">Armor</option>
+      </select>
+    </div>
+    <div class="filepath">
+      <button id="selectfilepath">Select Mod Folder</button>
+      <br>
+      Mod Folder: <span id="filepath">Nowhere</span>
+    </div>
+    <div id="content">
+      <div id="object" class="block">
+        <pre><code class="prettyprint">{
+  "objectName" : "<input type="text" id="objectName" placeholder="Item Id">",
+  "colonyTags" : [<input type="text" id="colonyTags" placeholder="Tag1, Tag2, Tag3, ...">],
+  "rarity" : "<select id="rarity">
+    <option value="common">Common</option>
+    <option value="uncommon">Uncommon</option>
+    <option value="rare">Rare</option>
+    <option value="legendary">Legendary</option>
+    <option value="essential">Essential</option>
+  </select>",
+  "category" : "<select id="category">
+    <option value="actionFigure">Action Figure</option>
+    <option value="artifact">Artifact</option>
+    <option value="breakable">Breakable</option>
+    <option value="bug">Bug</option>
+    <option value="crafting">Crafting Station</option>
+    <option value="decorative" selected>Decorative</option>
+    <option value="spawner">Deed</option>
+    <option value="door">Door</option>
+    <option value="furniture">Furniture</option>
+    <option value="generic">Generic</option>
+    <option value="light">Light Source</option>
+    <option value="other">Other</option>
+    <option value="railPoint">Rail Point</option>
+    <option value="fridgeStorage">Refrigerated Storage</option>
+    <option value="sapling">Sapling</option>
+    <option value="seed">Seed</option>
+    <option value="storage">Storage</option>
+    <option value="techManagement">Tech Management</option>
+    <option value="teleportMarker">Teleport Marker</option>
+    <option value="teleporter">Teleporter</option>
+    <option value="terraformer">Terraformer</option>
+    <option value="trap">Trap</option>
+    <option value="wire">Wire</option>
+  </select>",
+  "price" : <input type="number" id="price" placeholder="500">,
+  "printable" : <input type="checkbox" id="printable" checked>,
+  "description" : "<input type="text" id="description" placeholder="Item Description">",
+  "shortdescription" : "<input type="text" id="shortdescription" placeholder="Item Name">",
+  "race" : "<input type="text" id="race" placeholder="Race that can craft it">",
+
+  <div class="descriptionbox"><div>  "apexDescription" : "<input type="text" id="apexDescription" placeholder="Inspect Description">",
+  "avianDescription" : "<input type="text" id="avianDescription" placeholder="Inspect Description">",
+  "floranDescription" : "<input type="text" id="floranDescription" placeholder="Inspect Description">",
+  "glitchDescription" : "<input type="text" id="glitchDescription" placeholder="Inspect Description">",
+  "humanDescription" : "<input type="text" id="humanDescription" placeholder="Inspect Description">",
+  "hylotlDescription" : "<input type="text" id="hylotlDescription" placeholder="Inspect Description">",
+  "novakidDescription" : "<input type="text" id="novakidDescription" placeholder="Inspect Description">",</div><div><span>All the same?</span><input type="checkbox" id="matchingdescriptions"></div>
+</div>
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "imageLayers" : [ { "image" : "" } ],
+      "direction" : "left",
+
+      "imagePosition" : [, ],
+      "frames" : ,
+      "animationCycle" : ,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "" } ],
+      "flipImages" : true,
+      "direction" : "right",
+
+      "imagePosition" : [, ],
+      "frames" : ,
+      "animationCycle" : ,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}</code></pre>
+      </div>
+      <div id="item" class="block hidden">
+        bbbbbbbbbbbbb
+      </div>
+      <div id="weapon" class="block hidden">
+        cccccccccccc
+      </div>
+      <div id="armor" class="block hidden">
+        dddddddddddd
+      </div>
+    </div>
+    <br><br>
+    <button id="save">Generate!</button>
+  
+    <script src="index.js"></script>
+    <script src="main.js"></script>
+    <script type="text/javascript" src="./google-code-prettify/prettify.js"></script>
+  </body>
+</html>
