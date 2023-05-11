@@ -1,9 +1,11 @@
 const electron = require("electron")
-const { app, BrowserWindow, dialog, ipcMain } = electron
+const { app, dialog, ipcMain } = electron
+let { BrowserWindow } = electron
 const path = require("path")
+require("@electron/remote/main").initialize()
 
 try {
-  require('electron-reloader')(module)
+  require('electron-reloader')(module, {ignore: [/userTags/]})
 } catch (_) {}
 
 let win = null
@@ -34,11 +36,17 @@ app.on("window-all-closed", () => {
   if (process.platform !== "darwin") app.quit()
 })
 
-ipcMain.on('getpath', (event) => {  
+app.on('browser-window-created', (_, window) => {
+  require("@electron/remote/main").enable(window.webContents)
+})
+
+ipcMain.on('getpath', (event, type) => {  
+  
   dialog.showOpenDialog({ 
-    properties: [ 'openDirectory' ]
+    properties: [ type == "folder" ? 'openDirectory' : 'openFile' ],
+    filters: [type == "folder" ? null : { name: "Images", extensions: [ "png" ] } ]
   }).then(path => {
-    win.webContents.send('gottenpath', path)
+    win.webContents.send('gottenpath', type, path)
   }).catch(error => {
     console.error(error)
   })

@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/AlphaMeece/starboundmodmaker#readme",
   "dependencies": {
+    "@electron/remote/main": "^2.0.9",
     "electron": "^20.0.2",
     "electron-reload": "^2.0.0-alpha.1",
-    "electron-reloader": "^1.2.3"
+    "electron-reloader": "^1.2.3",
+    "path": "^0.12.7",
+    "pretty": "^2.0.0"
   }
 }

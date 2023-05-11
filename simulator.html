@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Placement Simulator</title>
+    <!-- https://electronjs.org/docs/tutorial
+                           /security#csp-meta-tag -->
+    <meta http-equiv="Content-Security-Policy" 
+          content="script-src 'self' 'unsafe-inline';" />
+    <link rel="stylesheet" type="text/css" href="./assets/font/stylesheet.css">
+    <link rel="stylesheet" href="simulator.css">
+    <link rel="stylesheet" type="text/css" href="./google-code-prettify/prettify.css">
+  </head>
+  <body onload="PR.prettyPrint()">
+    <canvas id="simulatorCanvas"></canvas>
+    <button id="leftButton" class="directional left" onclick="left()"><img src="./assets/leftArrow.png"></button>
+    <button id="rightButton" class="directional right" onclick="right()"><img src="./assets/rightArrow.png"></button>
+    <script src="simulator.js" onload="startSimulator()"></script>
+    <script type="text/javascript" src="./google-code-prettify/prettify.js"></script>
+  </body>
+</html>

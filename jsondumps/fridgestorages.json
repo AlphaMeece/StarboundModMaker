@@ -1,0 +1,348 @@
+[
+	{
+		"key": "objectName",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "colonyTags",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "rarity",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "objectType",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "tooltipKind",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "category",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "price",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "description",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "shortdescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "race",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "health",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "apexDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "avianDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "floranDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "glitchDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "humanDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "hylotlDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "novakidDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "inventoryIcon",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "orientations",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "openSounds",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "closeSounds",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "slotCount",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "uiConfig",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "frameCooldown",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "autoCloseCooldown",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "itemAgeMultiplier",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\apex\\apexfridge\\apexfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\scorchedcity\\scorchedcityfridge\\scorchedcityfridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "printable",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\biome\\ice\\icemachine\\icemachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\minifridge\\minifridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object"
+		]
+	},
+	{
+		"key": "soundEffect",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\ceilingfridge1\\largecooler1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\human\\fridge\\fridge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	},
+	{
+		"key": "lightColor",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\outpostfridge\\outpostfridge.object"
+		]
+	}
+]

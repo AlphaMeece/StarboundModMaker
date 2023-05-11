@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'starbound';
+    src: url('Starbound-Font.woff2') format('woff2'),
+         url('Starbound-Font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

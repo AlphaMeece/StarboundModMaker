@@ -1,0 +1,790 @@
+[
+	{
+		"key": "objectName",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "colonyTags",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "rarity",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "description",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "shortdescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "race",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object"
+		]
+	},
+	{
+		"key": "category",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "price",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "printable",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "lightColor",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "lightPosition",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "apexDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "avianDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "floranDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "glitchDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "humanDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "hylotlDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "novakidDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "inventoryIcon",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "orientations",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "health",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "animation",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object"
+		]
+	},
+	{
+		"key": "animationParts",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object"
+		]
+	},
+	{
+		"key": "animationPosition",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object"
+		]
+	},
+	{
+		"key": "soundEffect",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object"
+		]
+	},
+	{
+		"key": "scripts",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "queryArea",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object"
+		]
+	},
+	{
+		"key": "queryInterval",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object"
+		]
+	},
+	{
+		"key": "spawnOffset",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\mission\\checkpoint\\checkpoint.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object"
+		]
+	},
+	{
+		"key": "objectType",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "interactAction",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "interactData",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\exitteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\exitteleporter\\returnteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "teleporterFootPosition",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\arkteleporter\\arkteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\peacekeeperteleporter\\peacekeeperteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "scriptDelta",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\returnoutpostteleporter.object"
+		]
+	},
+	{
+		"key": "spawnInterval",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object"
+		]
+	},
+	{
+		"key": "npctypes",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stoptele.object"
+		]
+	},
+	{
+		"key": "flickerDistance",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object"
+		]
+	},
+	{
+		"key": "flickerStrength",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object"
+		]
+	},
+	{
+		"key": "flickerTiming",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object"
+		]
+	},
+	{
+		"key": "particleEmitter",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object"
+		]
+	},
+	{
+		"key": "soundEffectRangeMultiplier",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\avianteleporter\\avianteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\floranteleporter\\floranteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\glitchteleporter\\glitchteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\humanteleporter\\humanteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\hylotlteleporter\\hylotlteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\novakidteleporter\\novakidteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ship\\teleporter\\teleporter.object"
+		]
+	},
+	{
+		"key": "rooting",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "breakDropPool",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\returnoutpostteleporter\\remoteteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	},
+	{
+		"key": "npcToy",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\blackteleporter\\blackteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\brassteleporter\\brassteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\futureteleporter\\futureteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\scienceteleporter\\scienceteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\stoneteleporter\\stoneteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\tombteleporter\\tombteleporter.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\teleporter\\woodenteleporter\\woodenteleporter.object"
+		]
+	}
+]

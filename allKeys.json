@@ -1,0 +1,1798 @@
+[
+	{
+		"key": "orientations",
+		"files": [
+			"actionfigures.json",
+			"artifacts.json",
+			"breakables.json",
+			"bugs.json",
+			"craftings.json",
+			"decoratives.json",
+			"doors.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"teleportmarkers.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "animation",
+		"files": [
+			"artifacts.json",
+			"breakables.json",
+			"craftings.json",
+			"decoratives.json",
+			"doors.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "animationPosition",
+		"files": [
+			"artifacts.json",
+			"craftings.json",
+			"decoratives.json",
+			"doors.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "animationParts",
+		"files": [
+			"artifacts.json",
+			"breakables.json",
+			"craftings.json",
+			"decoratives.json",
+			"doors.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "scripts",
+		"files": [
+			"artifacts.json",
+			"breakables.json",
+			"craftings.json",
+			"decoratives.json",
+			"doors.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "interactive",
+		"files": [
+			"artifacts.json",
+			"breakables.json",
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "smashable",
+		"files": [
+			"breakables.json",
+			"decoratives.json",
+			"lights.json",
+			"others.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "smashSounds",
+		"files": [
+			"breakables.json",
+			"decoratives.json",
+			"lights.json",
+			"others.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "smashParticles",
+		"files": [
+			"breakables.json",
+			"decoratives.json",
+			"lights.json",
+			"others.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "smashDropPool",
+		"files": [
+			"breakables.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "breakDropPool",
+		"files": [
+			"breakables.json",
+			"teleporters.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "particleEmitter",
+		"files": [
+			"breakables.json",
+			"craftings.json",
+			"decoratives.json",
+			"lights.json",
+			"teleporters.json",
+			"traps.json"
+		]
+	},
+	{
+		"key": "smashOnBreak",
+		"files": [
+			"breakables.json",
+			"decoratives.json",
+			"lights.json",
+			"others.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "biomePlaced",
+		"files": [
+			"breakables.json",
+			"decoratives.json",
+			"lights.json",
+			"traps.json"
+		]
+	},
+	{
+		"key": "smashDropOptions",
+		"files": [
+			"breakables.json",
+			"decoratives.json",
+			"lights.json",
+			"traps.json"
+		]
+	},
+	{
+		"key": "fullbright",
+		"files": [
+			"breakables.json",
+			"lights.json"
+		]
+	},
+	{
+		"key": "lightColor",
+		"files": [
+			"breakables.json",
+			"bugs.json",
+			"craftings.json",
+			"decoratives.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "scriptDelta",
+		"files": [
+			"breakables.json",
+			"decoratives.json",
+			"doors.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "inputNodes",
+		"files": [
+			"breakables.json",
+			"decoratives.json",
+			"doors.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "breakDropOptions",
+		"files": [
+			"breakables.json",
+			"craftings.json",
+			"decoratives.json",
+			"doors.json",
+			"lights.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "explosionProjectile",
+		"files": [
+			"breakables.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "explosionOffset",
+		"files": [
+			"breakables.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "spawner",
+		"files": [
+			"breakables.json"
+		]
+	},
+	{
+		"key": "itemTags",
+		"files": [
+			"breakables.json",
+			"bugs.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "animationCenterLine",
+		"files": [
+			"breakables.json"
+		]
+	},
+	{
+		"key": "fossilPool",
+		"files": [
+			"breakables.json"
+		]
+	},
+	{
+		"key": "treasurePools",
+		"files": [
+			"breakables.json"
+		]
+	},
+	{
+		"key": "materials",
+		"files": [
+			"breakables.json"
+		]
+	},
+	{
+		"key": "particleEmitters",
+		"files": [
+			"breakables.json",
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "scannable",
+		"files": [
+			"breakables.json",
+			"decoratives.json",
+			"lights.json",
+			"others.json"
+		]
+	},
+	{
+		"key": "flickerDistance",
+		"files": [
+			"bugs.json",
+			"decoratives.json",
+			"lights.json",
+			"teleporters.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "flickerStrength",
+		"files": [
+			"bugs.json",
+			"decoratives.json",
+			"lights.json",
+			"teleporters.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "flickerTiming",
+		"files": [
+			"bugs.json",
+			"decoratives.json",
+			"lights.json",
+			"teleporters.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "interactAction",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"others.json",
+			"teleporters.json",
+			"teleportmarkers.json"
+		]
+	},
+	{
+		"key": "interactData",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"others.json",
+			"teleporters.json",
+			"teleportmarkers.json"
+		]
+	},
+	{
+		"key": "statusEffects",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json"
+		]
+	},
+	{
+		"key": "flickerPeriod",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "flickerMinIntensity",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "flickerMaxIntensity",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "flickerPeriodVariance",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "flickerIntensityVariance",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "radioMessagesOnPickup",
+		"files": [
+			"craftings.json",
+			"teleportmarkers.json"
+		]
+	},
+	{
+		"key": "maximumLiquidLevel",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"lights.json",
+			"traps.json"
+		]
+	},
+	{
+		"key": "soundEffect",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"teleporters.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "soundEffectRangeMultiplier",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"teleporters.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "npcToy",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "lightPosition",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "recipeGroup",
+		"files": [
+			"craftings.json"
+		]
+	},
+	{
+		"key": "openSounds",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"others.json",
+			"storages.json"
+		]
+	},
+	{
+		"key": "frameCooldown",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "autoCloseCooldown",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"others.json",
+			"storages.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "subtitle",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "objectType",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"doors.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"teleportmarkers.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "health",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"doors.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json",
+			"storages.json",
+			"teleporters.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "slotCount",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"others.json",
+			"storages.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "uiConfig",
+		"files": [
+			"craftings.json",
+			"decoratives.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"others.json",
+			"storages.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "placementImage",
+		"files": [
+			"craftings.json"
+		]
+	},
+	{
+		"key": "placementImagePosition",
+		"files": [
+			"craftings.json"
+		]
+	},
+	{
+		"key": "learnBlueprintsOnPickup",
+		"files": [
+			"craftings.json",
+			"lights.json"
+		]
+	},
+	{
+		"key": "startingUpgradeStage",
+		"files": [
+			"craftings.json"
+		]
+	},
+	{
+		"key": "maxUpgradeStage",
+		"files": [
+			"craftings.json"
+		]
+	},
+	{
+		"key": "upgradeStages",
+		"files": [
+			"craftings.json"
+		]
+	},
+	{
+		"key": "forceFinishAnimationsInInit",
+		"files": [
+			"craftings.json"
+		]
+	},
+	{
+		"key": "addonConfig",
+		"files": [
+			"craftings.json"
+		]
+	},
+	{
+		"key": "unbreakable",
+		"files": [
+			"craftings.json"
+		]
+	},
+	{
+		"key": "flagAnimationStates",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "pointLight",
+		"files": [
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json"
+		]
+	},
+	{
+		"key": "pointBeam",
+		"files": [
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json"
+		]
+	},
+	{
+		"key": "beamAmbience",
+		"files": [
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json"
+		]
+	},
+	{
+		"key": "sounds",
+		"files": [
+			"decoratives.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "animationCustom",
+		"files": [
+			"decoratives.json",
+			"doors.json",
+			"lights.json",
+			"others.json",
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "defaultLightState",
+		"files": [
+			"decoratives.json",
+			"lights.json"
+		]
+	},
+	{
+		"key": "tooltipKind",
+		"files": [
+			"decoratives.json",
+			"doors.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"others.json",
+			"storages.json"
+		]
+	},
+	{
+		"key": "closeSounds",
+		"files": [
+			"decoratives.json",
+			"fridgestorages.json",
+			"furnitures.json",
+			"others.json",
+			"storages.json"
+		]
+	},
+	{
+		"key": "genericDescription",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "sitFlipDirection",
+		"files": [
+			"decoratives.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "sitPosition",
+		"files": [
+			"decoratives.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "sitOrientation",
+		"files": [
+			"decoratives.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "sitAngle",
+		"files": [
+			"decoratives.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "sitStatusEffects",
+		"files": [
+			"decoratives.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "detectThresholdLow",
+		"files": [
+			"decoratives.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "detectThresholdHigh",
+		"files": [
+			"decoratives.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "sitCoverImage",
+		"files": [
+			"decoratives.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "rotationOffset",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "partAngles",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "floorDebrisAngle",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "windupDebrisAngle",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "damageAngle",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "damageConfig",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "attackTime",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "attackRotation",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "monsterQueryRange",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "objectWidth",
+		"files": [
+			"decoratives.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "spawnPoints",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "outputNodes",
+		"files": [
+			"decoratives.json",
+			"doors.json",
+			"others.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "projectileOptions",
+		"files": [
+			"decoratives.json",
+			"others.json"
+		]
+	},
+	{
+		"key": "novaDescription",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "retainObjectParametersInItem",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "winningItem",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "sitEmote",
+		"files": [
+			"decoratives.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "sitEffectEmitters",
+		"files": [
+			"decoratives.json",
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "soundEffectRadius",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "turnInQuests",
+		"files": [
+			"decoratives.json",
+			"furnitures.json",
+			"others.json"
+		]
+	},
+	{
+		"key": "windSensorPosition",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "wheelRotationCenter",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "wheelRotationRate",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "wheelRotationDelta",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "wheelMaxRotationRate",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "wheelRotationUpdateTime",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "uniqueId",
+		"files": [
+			"decoratives.json",
+			"furnitures.json",
+			"lights.json",
+			"others.json"
+		]
+	},
+	{
+		"key": "rankUniverseFlags",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "signBacking",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "isWired",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "isContainer",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "frameColors",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "interval",
+		"files": [
+			"decoratives.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "offeredQuests",
+		"files": [
+			"decoratives.json",
+			"furnitures.json",
+			"others.json"
+		]
+	},
+	{
+		"key": "chatOptions",
+		"files": [
+			"decoratives.json",
+			"furnitures.json",
+			"others.json"
+		]
+	},
+	{
+		"key": "mouthPosition",
+		"files": [
+			"decoratives.json",
+			"others.json"
+		]
+	},
+	{
+		"key": "keepAlive",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "pickedUpParameters",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "shipPetType",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "spawnOffset",
+		"files": [
+			"decoratives.json",
+			"teleporters.json"
+		]
+	},
+	{
+		"key": "chatPortrait",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "dialog",
+		"files": [
+			"decoratives.json"
+		]
+	},
+	{
+		"key": "detectDuration",
+		"files": [
+			"decoratives.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "detectEntityTypes",
+		"files": [
+			"decoratives.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "detectArea",
+		"files": [
+			"decoratives.json",
+			"doors.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "closedLight",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "largeImage",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "stayClosedTime",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "stayOpenTime",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "playerQueryArea",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "physicsCollisions",
+		"files": [
+			"doors.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "physicsForces",
+		"files": [
+			"doors.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "sensorConfig",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "nokavidDescription",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "openMaterialSpaces",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "doorDirection",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "doorRate",
+		"files": [
+			"doors.json"
+		]
+	},
+	{
+		"key": "itemAgeMultiplier",
+		"files": [
+			"fridgestorages.json"
+		]
+	},
+	{
+		"key": "sitArmorCosmeticOverrides",
+		"files": [
+			"furnitures.json"
+		]
+	},
+	{
+		"key": "blinkInterval",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "angleRange",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "hasObjectItem",
+		"files": [
+			"lights.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "minimumLiquidLevel",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "activeTimeRange",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "activeAnimationStates",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "inactiveAnimationStates",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "itemDropOffset",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "stages",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "lightColors",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "alarmSoundDuration",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "lightColorOff",
+		"files": [
+			"lights.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "flyingBoosterStates",
+		"files": [
+			"lights.json"
+		]
+	},
+	{
+		"key": "inactiveInteractAction",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "inactiveInteractData",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "vaultInstanceOptions",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "vaultActiveTime",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "startActive",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "vanishTime",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "messagePlayerInterval",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "messagePlayerRange",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "returnDoor",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "activationTime",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "rotationTime",
+		"files": [
+			"others.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "storeInventory",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "selectCount",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "inventoryPool",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "chipRepairFactor",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "chatRadius",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "chatCooldown",
+		"files": [
+			"others.json"
+		]
+	},
+	{
+		"key": "state",
+		"files": [
+			"others.json",
+			"storages.json"
+		]
+	},
+	{
+		"key": "burstTreasurePool",
+		"files": [
+			"storages.json"
+		]
+	},
+	{
+		"key": "burstItemVelocityRange",
+		"files": [
+			"storages.json"
+		]
+	},
+	{
+		"key": "burstAngleVariance",
+		"files": [
+			"storages.json"
+		]
+	},
+	{
+		"key": "burstOffset",
+		"files": [
+			"storages.json"
+		]
+	},
+	{
+		"key": "burstIntangibleTimeRange",
+		"files": [
+			"storages.json"
+		]
+	},
+	{
+		"key": "openFrameIndex",
+		"files": [
+			"storages.json"
+		]
+	},
+	{
+		"key": "frameCount",
+		"files": [
+			"storages.json"
+		]
+	},
+	{
+		"key": "monsterType",
+		"files": [
+			"storages.json"
+		]
+	},
+	{
+		"key": "autofillContents",
+		"files": [
+			"storages.json"
+		]
+	},
+	{
+		"key": "damageTeam",
+		"files": [
+			"storages.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "queryArea",
+		"files": [
+			"teleporters.json"
+		]
+	},
+	{
+		"key": "queryInterval",
+		"files": [
+			"teleporters.json"
+		]
+	},
+	{
+		"key": "teleporterFootPosition",
+		"files": [
+			"teleporters.json"
+		]
+	},
+	{
+		"key": "spawnInterval",
+		"files": [
+			"teleporters.json"
+		]
+	},
+	{
+		"key": "npctypes",
+		"files": [
+			"teleporters.json"
+		]
+	},
+	{
+		"key": "rooting",
+		"files": [
+			"teleporters.json"
+		]
+	},
+	{
+		"key": "inactiveLightColor",
+		"files": [
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "activeLightColor",
+		"files": [
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "fireTime",
+		"files": [
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "fireTimeVariance",
+		"files": [
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "projectile",
+		"files": [
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "projectileConfig",
+		"files": [
+			"traps.json",
+			"wires.json"
+		]
+	},
+	{
+		"key": "touchDamage",
+		"files": [
+			"traps.json"
+		]
+	},
+	{
+		"key": "animationScripts",
+		"files": [
+			"traps.json"
+		]
+	},
+	{
+		"key": "beamImages",
+		"files": [
+			"traps.json"
+		]
+	},
+	{
+		"key": "beamDamage",
+		"files": [
+			"traps.json"
+		]
+	},
+	{
+		"key": "beamLight",
+		"files": [
+			"traps.json"
+		]
+	},
+	{
+		"key": "rotationRange",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "rotationPauseTime",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "maxLaserLength",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "baseOffset",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "tipOffset",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "fireCooldown",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "fireOffsets",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "targetHoldTime",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "alwaysLit",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "gates",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "truthtable",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "duration",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "delay",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "firstProjectile",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "triggerDelay",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "secondProjectile",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "explodeOnSmash",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "inaccuracy",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "defaultSwitchState",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "projectileType",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "projectilePower",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "projectileOffset",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "triggerOnBreak",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "triggerSounds",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "detonationTime",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "inboundNodes",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "rotationSpeed",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "offAngle",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "scanInterval",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "scanAngle",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "scanRange",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "targetQueryRange",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "targetMinRange",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "targetMaxRange",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "targetAngleRange",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "maxFireAngle",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "energyUsage",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "power",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "maxEnergy",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "energyRegen",
+		"files": [
+			"wires.json"
+		]
+	},
+	{
+		"key": "energyRegenBlock",
+		"files": [
+			"wires.json"
+		]
+	}
+]

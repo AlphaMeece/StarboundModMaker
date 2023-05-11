@@ -1,0 +1,1284 @@
+[
+	{
+		"key": "objectName",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "colonyTags",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "rarity",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "category",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "price",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "printable",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object"
+		]
+	},
+	{
+		"key": "description",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "shortdescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "offeredQuests",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object"
+		]
+	},
+	{
+		"key": "race",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "apexDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "avianDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "floranDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "glitchDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "humanDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "hylotlDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "novakidDescription",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "lightColor",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object"
+		]
+	},
+	{
+		"key": "inventoryIcon",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "orientations",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\arcadegame\\arcadegameclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishingclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbayclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshopclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signstoreclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabhologram.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramartclosed.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "animation",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object"
+		]
+	},
+	{
+		"key": "animationParts",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object"
+		]
+	},
+	{
+		"key": "uniqueId",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object"
+		]
+	},
+	{
+		"key": "scripts",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "scriptDelta",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object"
+		]
+	},
+	{
+		"key": "interactAction",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object"
+		]
+	},
+	{
+		"key": "interactData",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\neon\\neonstore\\neonstore.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\infinityexpress\\infinityexpress.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperfurnishings\\peacekeeperfurnishings.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore1.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore2.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore3.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeeperstore\\peacekeeperstore4.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object"
+		]
+	},
+	{
+		"key": "inactiveInteractAction",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object"
+		]
+	},
+	{
+		"key": "inactiveInteractData",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object"
+		]
+	},
+	{
+		"key": "vaultInstanceOptions",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object"
+		]
+	},
+	{
+		"key": "vaultActiveTime",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\ancientconsole.object"
+		]
+	},
+	{
+		"key": "startActive",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientconsole\\returnconsole.object"
+		]
+	},
+	{
+		"key": "flickerPeriod",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object"
+		]
+	},
+	{
+		"key": "flickerMinIntensity",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object"
+		]
+	},
+	{
+		"key": "flickerMaxIntensity",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object"
+		]
+	},
+	{
+		"key": "flickerPeriodVariance",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object"
+		]
+	},
+	{
+		"key": "flickerIntensityVariance",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\ursaminer\\ursaminer.object"
+		]
+	},
+	{
+		"key": "animationCustom",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object"
+		]
+	},
+	{
+		"key": "animationPosition",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object"
+		]
+	},
+	{
+		"key": "outputNodes",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\ancientsmallconsole\\ancientsmallconsole.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object"
+		]
+	},
+	{
+		"key": "vanishTime",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object"
+		]
+	},
+	{
+		"key": "messagePlayerInterval",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object"
+		]
+	},
+	{
+		"key": "messagePlayerRange",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object"
+		]
+	},
+	{
+		"key": "health",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object"
+		]
+	},
+	{
+		"key": "smashOnBreak",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengedoor.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object"
+		]
+	},
+	{
+		"key": "returnDoor",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancient\\challengedoor\\challengereturndoor.object"
+		]
+	},
+	{
+		"key": "lightPosition",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\2stopteleshop\\2stopshop.object"
+		]
+	},
+	{
+		"key": "soundEffect",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\terramart\\terramart.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object"
+		]
+	},
+	{
+		"key": "soundEffectRangeMultiplier",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\terraforge\\terraforge.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\ancientvault\\weaponupgradeanvil\\weaponupgradeanvil.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mechassemblystation\\mechassemblystation.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object"
+		]
+	},
+	{
+		"key": "objectType",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object"
+		]
+	},
+	{
+		"key": "openSounds",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object"
+		]
+	},
+	{
+		"key": "closeSounds",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object"
+		]
+	},
+	{
+		"key": "slotCount",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object"
+		]
+	},
+	{
+		"key": "uiConfig",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object"
+		]
+	},
+	{
+		"key": "frameCooldown",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object"
+		]
+	},
+	{
+		"key": "autoCloseCooldown",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\mannequin\\mannequin.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object"
+		]
+	},
+	{
+		"key": "activationTime",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object"
+		]
+	},
+	{
+		"key": "inputNodes",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object"
+		]
+	},
+	{
+		"key": "projectileOptions",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\generic\\statuspod\\statuspod.object"
+		]
+	},
+	{
+		"key": "rotationTime",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object"
+		]
+	},
+	{
+		"key": "storeInventory",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\frogfurnishing\\frogfurnishing.object"
+		]
+	},
+	{
+		"key": "questIndicatorPosition",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object"
+		]
+	},
+	{
+		"key": "mouthPosition",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinbay\\penguinbay.object"
+		]
+	},
+	{
+		"key": "selectCount",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object"
+		]
+	},
+	{
+		"key": "inventoryPool",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\penguinweaponshop\\penguinweaponshop.object"
+		]
+	},
+	{
+		"key": "subtitle",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object"
+		]
+	},
+	{
+		"key": "tooltipKind",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object"
+		]
+	},
+	{
+		"key": "statusEffects",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object"
+		]
+	},
+	{
+		"key": "chipRepairFactor",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object"
+		]
+	},
+	{
+		"key": "chatRadius",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object"
+		]
+	},
+	{
+		"key": "chatCooldown",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object"
+		]
+	},
+	{
+		"key": "chatOptions",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\repairo\\repairo.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object"
+		]
+	},
+	{
+		"key": "turnInQuests",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\shipyardcaptain\\shipyardcaptain.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object"
+		]
+	},
+	{
+		"key": "state",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\signstore\\signdispenser.object"
+		]
+	},
+	{
+		"key": "scannable",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientist.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\outpost\\techlab\\techlabscientistshop.object"
+		]
+	},
+	{
+		"key": "npcToy",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\peacekeeper\\peacekeepervendingmachine\\peacekeepervendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\stationvendingmachine\\stationvendingmachine.object",
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\wreck\\wreckvendingmachine\\wreckvendingmachine.object"
+		]
+	},
+	{
+		"key": "smashable",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object"
+		]
+	},
+	{
+		"key": "smashSounds",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object"
+		]
+	},
+	{
+		"key": "smashParticles",
+		"files": [
+			"D:\\Steam\\steamapps\\common\\Starbound\\_UnpackedAssets\\objects\\space\\wiredtarget\\wiredtarget.object"
+		]
+	}
+]

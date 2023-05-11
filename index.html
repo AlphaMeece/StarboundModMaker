@@ -7,10 +7,11 @@
                            /security#csp-meta-tag -->
     <meta http-equiv="Content-Security-Policy" 
           content="script-src 'self' 'unsafe-inline';" />
+    <link rel="stylesheet" type="text/css" href="./assets/font/stylesheet.css">
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" type="text/css" href="./google-code-prettify/prettify.css">
   </head>
-  <body onload="PR.prettyPrint()">
+  <body onload="PR.prettyPrint()" >
     <h1 class="title">Starbound Mod Maker</h1>
     <div class="title">
       Creating a(n):
@@ -28,83 +29,128 @@
     </div>
     <div id="content">
       <div id="object" class="block">
-        <pre><code class="prettyprint">{
-  "objectName" : "<input type="text" id="objectName" placeholder="Item Id">",
-  "colonyTags" : [<input type="text" id="colonyTags" placeholder="Tag1, Tag2, Tag3, ...">],
-  "rarity" : "<select id="rarity">
-    <option value="common">Common</option>
-    <option value="uncommon">Uncommon</option>
-    <option value="rare">Rare</option>
-    <option value="legendary">Legendary</option>
-    <option value="essential">Essential</option>
-  </select>",
-  "category" : "<select id="category">
-    <option value="actionFigure">Action Figure</option>
-    <option value="artifact">Artifact</option>
-    <option value="breakable">Breakable</option>
-    <option value="bug">Bug</option>
-    <option value="crafting">Crafting Station</option>
-    <option value="decorative" selected>Decorative</option>
-    <option value="spawner">Deed</option>
-    <option value="door">Door</option>
-    <option value="furniture">Furniture</option>
-    <option value="generic">Generic</option>
-    <option value="light">Light Source</option>
-    <option value="other">Other</option>
-    <option value="railPoint">Rail Point</option>
-    <option value="fridgeStorage">Refrigerated Storage</option>
-    <option value="sapling">Sapling</option>
-    <option value="seed">Seed</option>
-    <option value="storage">Storage</option>
-    <option value="techManagement">Tech Management</option>
-    <option value="teleportMarker">Teleport Marker</option>
-    <option value="teleporter">Teleporter</option>
-    <option value="terraformer">Terraformer</option>
-    <option value="trap">Trap</option>
-    <option value="wire">Wire</option>
-  </select>",
-  "price" : <input type="number" id="price" placeholder="500">,
-  "printable" : <input type="checkbox" id="printable" checked>,
-  "description" : "<input type="text" id="description" placeholder="Item Description">",
-  "shortdescription" : "<input type="text" id="shortdescription" placeholder="Item Name">",
-  "race" : "<input type="text" id="race" placeholder="Race that can craft it">",
+        <div id="generalProperties" class="vbox main" style="width: 600px">
+          <h2>General Properties</h2>
+          <div class="vbox descriptionBox" style="padding: 5px;">
+            <span>Race: <select>
+              <option value="generic" selected>Generic</option>
+              <option value="ancient">Ancient</option>
+              <option value="apex">Apex</option>
+              <option value="avian">Avian</option>
+              <option value="floran">Floran</option>
+              <option value="glitch">Glitch</option>
+              <option value="human">Human</option>
+              <option value="hylotl">Hylotl</option>
+              <option value="novakid">Novakid</option>
+            </select></span>
+            <span>Printable: <input type="checkbox" id="printable"></span>
+            <span>Matching Descriptions: <input type="checkbox" id="matchingdescriptions"></span>
+            <div id="apexDescription" style="float: left; width: 100%">
+              <img class="raceIcon" src="assets/apexIcon.png">
+              <textarea type="text" class="inspectbox" id="apexinspect" style="width: calc(100% - 60px)">There's something off about this object.</textarea>
+            </div>
+            <div id="avianDescription" style="float: left; width: 100%">
+              <img class="raceIcon" src="assets/avianIcon.png">
+              <textarea type="text" class="inspectbox" id="avianinspect" style="width: calc(100% - 60px)">Never before have I seen an object so perfectly symmetrical.</textarea>
+            </div>
+            <div id="floranDescription" style="float: left; width: 100%">
+              <img class="raceIcon" src="assets/floranIcon.png">
+              <textarea type="text" class="inspectbox" id="floraninspect" style="width: calc(100% - 60px)">Perfect cube iss unnatural.</textarea>
+            </div>
+            <div id="glitchDescription" style="float: left; width: 100%">
+              <img class="raceIcon" src="assets/glitchIcon.png">
+              <textarea type="text" class="inspectbox" id="glitchinspect" style="width: calc(100% - 60px)">Disturbed. An object with no physical imperfections.</textarea>
+            </div>
+            <div id="humanDescription" style="float: left; width: 100%">
+              <img class="raceIcon" src="assets/humanIcon.png">
+              <textarea type="text" class="inspectbox" id="humaninspect" style="width: calc(100% - 60px)">What's so special about a perfectly cube-shaped cube?</textarea>
+            </div>
+            <div id="hylotlDescription" style="float: left; width: 100%">
+              <img class="raceIcon" src="assets/hylotlIcon.png">
+              <textarea type="text" class="inspectbox" id="hylotlinspect" style="width: calc(100% - 60px)">This cube embodies geometric perfection.</textarea>
+            </div>
+            <div id="novakidDescription" style="float: left; width: 100%">
+              <img class="raceIcon" src="assets/novakidIcon.png">
+              <textarea type="text" class="inspectbox" id="novakidinspect" style="width: calc(100% - 60px)">There's nothin' much to say. Perfection is dull!</textarea>
+            </div>
+            <span>Colony Tags: <button id="tagschangebutton">Change</button></span>
+            <div id="tags">
+              Misc
+            </div>
+          </div>
+        </div>
+        <div class="vbox main" style="width: 512px">
+          <div class="hbox" style="width: 512px; position: relative">
+            <div id="portrait">
+              <img src="./assets/portrait.png" class="portrait">
+              <div id="icon">
+                <img src="./assets/baseicon.png" class="portraiticon" id="inventoryIcon">
+              </div>
+            </div>
+            <div class="vbox" style="width: 369px; justify-content: start;">
+              <input type="text" placeholder="Perfectly Generic Item" id="shortDescription">
+              <select id="category" style="margin-top: 5px">
+                <option value="actionFigure">Action Figure</option>
+                <option value="breakable">Breakable</option>
+                <option value="crafting">Crafting Station</option>
+                <option value="decorative">Decorative</option>
+                <option value="door">Door</option>
+                <option value="furniture">Furniture</option>
+                <option value="generic" selected>Generic</option>
+                <option value="light">Light Source</option>
+                <option value="other">Other</option>
+                <option value="fridgeStorage">Refrigerated Storage</option>
+                <option value="storage">Storage</option>
+                <option value="teleportMarker">Teleport Marker</option>
+                <option value="teleporter">Teleporter</option>
+                <option value="trap">Trap</option>
+                <option value="wire">Wire</option>
+              </select>
+              <br>
+              <button id="simButton" onclick="simulatorWindow()">Change Placement and Size</button>
+              <div class="hbox">
+                <div class="vbox" style="width: 50%">
+                  <span>Bi-Directional:</span>
+                  <span>Cursor Position:</span>
+                  <span>Frames:</span>
+                  <span>Animation Cycle:</span>
+                </div>
+                <div class="vbox" style="width: 50%">
+                  <span id="directional">False</span>
+                  <span id="cursorPos">[-5, 0]</span>
+                  <span id="frames">1</span>
+                  <span id="animationCycle">1.0</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="hbox" style="align-items: center; justify-content: center; padding: 10px 0; ">
+            <div class="vbox descriptionBox">
+              <img id="orientations" src="assets/basesprite.png" style="max-width: 164px; width: 164px; max-height: 164px; margin-top: 20px;">
+              <textarea id="description">It's a perfectly generic item, perhaps a bit too perfect.</textarea>
+            </div>
+          </div>
+          <div style="display:inline-block">
+            <select id="rarity" style="color: #7236a3; float: left" onchange="this.dataset.chosen = this.value">
+              <option value="common">Common</option>
+              <option value="uncommon" style="color: #37a336">Uncommon</option>
+              <option value="rare" style="color: #368ca3">Rare</option>
+              <option value="legendary" style="color: #7236a3" selected>Legendary</option>
+              <option value="essential" style="color: #9e8e33">Essential</option>
+            </select>
+            <div style="float: right;">
+              <img src="assets/money.png" style="width: 14px; vertical-align: middle;">
+              x
+              <input id="price" type="number" min="0" value="0" style="width: 128px;">
+            </div>
+          </div>
+        </div>
+        <div id="categoryProperties" class="vbox main" style="width: 512px">
+          <h2>Category Properties</h2>
+          <div class="descriptionBox">
 
-  <div class="descriptionbox"><div>  "apexDescription" : "<input type="text" id="apexDescription" placeholder="Inspect Description">",
-  "avianDescription" : "<input type="text" id="avianDescription" placeholder="Inspect Description">",
-  "floranDescription" : "<input type="text" id="floranDescription" placeholder="Inspect Description">",
-  "glitchDescription" : "<input type="text" id="glitchDescription" placeholder="Inspect Description">",
-  "humanDescription" : "<input type="text" id="humanDescription" placeholder="Inspect Description">",
-  "hylotlDescription" : "<input type="text" id="hylotlDescription" placeholder="Inspect Description">",
-  "novakidDescription" : "<input type="text" id="novakidDescription" placeholder="Inspect Description">",</div><div><span>All the same?</span><input type="checkbox" id="matchingdescriptions"></div>
-</div>
-
-  "inventoryIcon" : "icon.png",
-  "orientations" : [
-    {
-      "imageLayers" : [ { "image" : "" } ],
-      "direction" : "left",
-
-      "imagePosition" : [, ],
-      "frames" : ,
-      "animationCycle" : ,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    },
-    {
-      "imageLayers" : [ { "image" : "" } ],
-      "flipImages" : true,
-      "direction" : "right",
-
-      "imagePosition" : [, ],
-      "frames" : ,
-      "animationCycle" : ,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-    }
-  ]
-}</code></pre>
+          </div>
+        </div>
       </div>
       <div id="item" class="block hidden">
         bbbbbbbbbbbbb
@@ -118,9 +164,160 @@
     </div>
     <br><br>
     <button id="save">Generate!</button>
-  
-    <script src="index.js"></script>
-    <script src="main.js"></script>
+    <div id="cover" class="colonyTagsCover hidden">
+      <div class="hbox" style="align-items: center; justify-content: center; height: 100%;">
+        <div id="coverBG" class="colonyTagsCover"></div>
+        <div id="top" class="vbox" style="align-items: center; justify-content: center;">
+          <div class="main" style="margin: 0">
+            <center><h2 style="margin-bottom: 10px">Colony Tags</h2></center>
+            <span>Search: <input type="text" id="colonyTagSearch" placeholder="Search for a tag"></span>
+            <ul id="tagList" style="height: 40vh; overflow-y: scroll; background-color: #171717; padding: 10px; margin-top: 5px">
+              <li><input type="checkbox"> Agaran</li>
+              <li><input type="checkbox"> Alien</li>
+              <li><input type="checkbox"> Alpine</li>
+              <li><input type="checkbox"> Ancient</li>
+              <li><input type="checkbox"> Apex</li>
+              <li><input type="checkbox"> Apex Camp</li>
+              <li><input type="checkbox"> Apex Mansion</li>
+              <li><input type="checkbox"> Apex Mission 1</li>
+              <li><input type="checkbox"> Apex Research Lab</li>
+              <li><input type="checkbox"> Apex Village</li>
+              <li><input type="checkbox"> Astronaut</li>
+              <li><input type="checkbox"> Avian</li>
+              <li><input type="checkbox"> Avian Airship</li>
+              <li><input type="checkbox"> Avian Temple</li>
+              <li><input type="checkbox"> Avian Tomb</li>
+              <li><input type="checkbox"> Avian Village</li>
+              <li><input type="checkbox"> Bioluminescence</li>
+              <li><input type="checkbox"> Bone</li>
+              <li><input type="checkbox"> Cabin</li>
+              <li><input type="checkbox"> Cell</li>
+              <li><input type="checkbox"> Christmas</li>
+              <li><input type="checkbox"> Colourful</li>
+              <li><input type="checkbox"> Combat</li>
+              <li><input type="checkbox"> Commerce</li>
+              <li><input type="checkbox"> Cooking</li>
+              <li><input type="checkbox"> Copper</li>
+              <li><input type="checkbox"> Coral</li>
+              <li><input type="checkbox"> Crafting</li>
+              <li><input type="checkbox"> Crystalline</li>
+              <li><input type="checkbox"> Dark</li>
+              <li><input type="checkbox"> Doom</li>
+              <li><input type="checkbox"> Door</li>
+              <li><input type="checkbox"> Electronic</li>
+              <li><input type="checkbox"> Evil</li>
+              <li><input type="checkbox"> Executive</li>
+              <li><input type="checkbox"> Explorer</li>
+              <li><input type="checkbox"> Eyepatch</li>
+              <li><input type="checkbox"> Farm</li>
+              <li><input type="checkbox"> Farming</li>
+              <li><input type="checkbox"> Fenerox</li>
+              <li><input type="checkbox"> Flesh</li>
+              <li><input type="checkbox"> Floran</li>
+              <li><input type="checkbox"> Floran Hunting Grounds</li>
+              <li><input type="checkbox"> Floran Prison</li>
+              <li><input type="checkbox"> Floran Village</li>
+              <li><input type="checkbox"> Fossil</li>
+              <li><input type="checkbox"> Foundry</li>
+              <li><input type="checkbox"> Frozen Fire</li>
+              <li><input type="checkbox"> Geode</li>
+              <li><input type="checkbox"> Geometric</li>
+              <li><input type="checkbox"> Giant Flower</li>
+              <li><input type="checkbox"> Glitch</li>
+              <li><input type="checkbox"> Glitch Castle</li>
+              <li><input type="checkbox"> Glitch Sewer</li>
+              <li><input type="checkbox"> Glitch Village</li>
+              <li><input type="checkbox"> Gnome</li>
+              <li><input type="checkbox"> Gothic</li>
+              <li><input type="checkbox"> Hive</li>
+              <li><input type="checkbox"> Hoard</li>
+              <li><input type="checkbox"> Human</li>
+              <li><input type="checkbox"> Human Bunker</li>
+              <li><input type="checkbox"> Human Prison</li>
+              <li><input type="checkbox"> Human Village</li>
+              <li><input type="checkbox"> Hylotl</li>
+              <li><input type="checkbox"> Hylotl Ocean City</li>
+              <li><input type="checkbox"> Hylotl Village</li>
+              <li><input type="checkbox"> Ice</li>
+              <li><input type="checkbox"> Island</li>
+              <li><input type="checkbox"> Jungle</li>
+              <li><input type="checkbox"> Knowledge</li>
+              <li><input type="checkbox"> Light</li>
+              <li><input type="checkbox"> Lunar Base</li>
+              <li><input type="checkbox"> Mechanical</li>
+              <li><input type="checkbox"> Mining</li>
+              <li><input type="checkbox" checked> Misc</li>
+              <li><input type="checkbox"> Mushroom Patch</li>
+              <li><input type="checkbox"> Musical</li>
+              <li><input type="checkbox"> Natural Cave</li>
+              <li><input type="checkbox"> Nature</li>
+              <li><input type="checkbox"> Novakid</li>
+              <li><input type="checkbox"> Novakid Village</li>
+              <li><input type="checkbox"> Oasis</li>
+              <li><input type="checkbox"> Ocean</li>
+              <li><input type="checkbox"> Odd</li>
+              <li><input type="checkbox"> Opulent</li>
+              <li><input type="checkbox"> Outdoor</li>
+              <li><input type="checkbox"> Outpost</li>
+              <li><input type="checkbox"> Pastel</li>
+              <li><input type="checkbox"> Pretty</li>
+              <li><input type="checkbox"> Prism</li>
+              <li><input type="checkbox"> Protectorate</li>
+              <li><input type="checkbox"> Retro Scifi</li>
+              <li><input type="checkbox"> Rust</li>
+              <li><input type="checkbox"> Saloon</li>
+              <li><input type="checkbox"> Sandstone</li>
+              <li><input type="checkbox"> Science</li>
+              <li><input type="checkbox"> Scorched</li>
+              <li><input type="checkbox"> Sea</li>
+              <li><input type="checkbox"> Serene</li>
+              <li><input type="checkbox"> Slime</li>
+              <li><input type="checkbox"> Spooky</li>
+              <li><input type="checkbox"> Spring</li>
+              <li><input type="checkbox"> Steampunk</li>
+              <li><input type="checkbox"> Steam Spring</li>
+              <li><input type="checkbox"> Stone Cave</li>
+              <li><input type="checkbox"> Storage</li>
+              <li><input type="checkbox"> Swamp</li>
+              <li><input type="checkbox"> Tar</li>
+              <li><input type="checkbox"> Tentacle</li>
+              <li><input type="checkbox"> Tier 1</li>
+              <li><input type="checkbox"> Tier 2</li>
+              <li><input type="checkbox"> Tier 3</li>
+              <li><input type="checkbox"> Tier 4</li>
+              <li><input type="checkbox"> Toxic</li>
+              <li><input type="checkbox"> Trap</li>
+              <li><input type="checkbox"> Traveller</li>
+              <li><input type="checkbox"> Valentines</li>
+              <li><input type="checkbox"> Valuable</li>
+              <li><input type="checkbox"> Volcanic</li>
+              <li><input type="checkbox"> Wave</li>
+              <li><input type="checkbox"> Wired</li>
+              <li><input type="checkbox"> Wreck</li>
+              <li><input type="checkbox"> Zen</li>
+            </ul>
+            <div class="hbox">
+              <button id="createNewTag" style="background-color: #272727; padding: 6px; margin-top: 5px">Create New</button>
+              <button id="doneTags" style="background-color: #272727; padding: 6px; margin-top: 5px">Done</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="cover2" class="newTagsCover hidden">
+      <div class="hbox" style="align-items: center; justify-content: center; height: 100%;">
+        <div id="cover2BG" class="newTagsCover"></div>
+        <div id="top2" class="vbox" style="align-items: center; justify-content: center;">
+          <div class="main" style="margin: 0">
+            <center><h2 style="margin-bottom: 10px">New Tag</h2></center>
+            <input type="text" id="newTag" placeholder="Tag Name">
+            <button id="finishNewTag" style="background-color: #272727; padding: 6px; margin-top: 5px">Done</button>
+            <button id="cancelNewTag" style="background-color: #272727; padding: 6px; margin-top: 5px">Cancel</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="main.js" onload="loadJSON()"></script>
     <script type="text/javascript" src="./google-code-prettify/prettify.js"></script>
   </body>
 </html>
