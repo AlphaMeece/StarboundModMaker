@@ -135,7 +135,6 @@ button {
 .descriptionBox {
     background-color: #171717;
     width: 98%;
-    height: 400px;
     align-items: center;
     justify-content: start;
 }
@@ -146,7 +145,6 @@ textarea {
 }
 
 #description {
-    margin-top: 20px;
     width: 95%;
     font-size: 25px;
     height: 192px;
@@ -176,6 +174,7 @@ textarea {
 
 #orientations {
     cursor: pointer;
+    margin-bottom: 20px;
 }
 
 #simButton {
@@ -195,4 +194,32 @@ textarea {
 
 #top2 {
     z-index: 12;
+}
+
+.directionalButton {
+    color: red;
+}
+
+.directionalButton.clicked {
+    color: green;
+}
+
+.animationButton {
+    color: red;
+}
+
+.animationButton.clicked {
+    color: green;
+}
+
+#animationBox {
+    display: none;
+}
+
+#orientationsAnimated {
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
 }

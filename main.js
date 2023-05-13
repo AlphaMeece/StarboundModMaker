@@ -3,12 +3,23 @@ const fs = require("fs")
 const { ipcRenderer } =  require("electron");
 const remote = require("@electron/remote")
 
+let directional = true;
 let tags = []
 let userTags = JSON.parse(fs.readFileSync("userTags.json", {encoding: "utf-8"}))
 let simulator = null
 
 let filepath = null;
 let filepathSpan = document.getElementById("filepath")
+let cursorPos = document.getElementById("cursorPos")
+
+let framesInput = document.getElementById("animationFrames")
+let cycleInput = document.getElementById("animationTime")
+let orientationsAnimated = document.getElementById("orientationsAnimated")
+let width, maxWidth, height, maxHeight
+let animated = false;
+let animationInterval = null
+let frames = 1, cycle = 1
+let offset = 0
 
 let cover = document.getElementById("cover")
 let coverBG = document.getElementById("coverBG")
@@ -19,6 +30,7 @@ let tagSpace = document.getElementById("tags")
 
 let iconImage = document.getElementById("inventoryIcon")
 let objectImage = document.getElementById("orientations")
+
 
 let save = document.getElementById("save")
 let type = document.getElementById("type")
@@ -44,6 +56,86 @@ let floranDescription = document.getElementById("floranDescription")
 let hylotlDescription = document.getElementById("hylotlDescription")
 let humanDescription = document.getElementById("humanDescription")
 let novakidDescription = document.getElementById("novakidDescription")
+
+const lcm = (a, b) => {
+    let hcf
+    for (let i = 1; i <= a && i <= b; i++) {
+        if( a % i == 0 && b % i == 0) {
+            hcf = i;
+        }
+    }
+
+    return a * b / hcf
+}
+
+const animate = () => {
+    if(offset - width < -maxWidth) offset = 0
+    orientationsAnimated.style.backgroundPositionX = `${offset}px`
+    offset -= width
+}
+
+const newFrames = () => {
+    clearInterval(animationInterval)
+    offset = 0
+    frames = +framesInput.value
+    if(maxHeight <= 80) {
+        let m = lcm(maxHeight, frames) / maxHeight
+        if(maxWidth * m / frames < 512) {
+            maxHeight *= m
+            height *= m
+            maxWidth *= m
+        }
+        console.log(maxWidth, maxHeight)
+    }
+    width = maxWidth / frames
+    orientationsAnimated.style.backgroundImage = `url(${objectImage.src})`
+    orientationsAnimated.style.width = `${width}px`
+    orientationsAnimated.style.height = `${height}px`
+    orientationsAnimated.style.backgroundSize = `${maxWidth}px ${height}px`
+    animate()
+    animationInterval = setInterval(animate, 1000 * cycle)
+}
+
+const newTime = () => {
+    offset = 0
+    cycle = +cycleInput.value
+    clearInterval(animationInterval)
+    animate()
+    animationInterval = setInterval(animate, 1000 * cycle)
+}
+
+const changeDirectionality = (direction) => {
+    let buttons = document.getElementsByClassName("directionalButton")
+    if(direction == 1) {
+        if(buttons[0].classList.contains("clicked")) buttons[0].classList.remove("clicked")
+        if(!buttons[1].classList.contains("clicked")) buttons[1].classList.add("clicked")
+        directional = false
+    } else if(direction == 2) {
+        if(!buttons[0].classList.contains("clicked")) buttons[0].classList.add("clicked")
+        if(buttons[1].classList.contains("clicked")) buttons[1].classList.remove("clicked")
+        directional = true
+    }
+}
+
+const changeAnimation = (animation) => {
+    let buttons = document.getElementsByClassName("animationButton")
+    animated = animation
+    if(animation == false) {
+        if(buttons[0].classList.contains("clicked")) buttons[0].classList.remove("clicked")
+        if(!buttons[1].classList.contains("clicked")) buttons[1].classList.add("clicked")
+        document.getElementById("animationBox").style.display = "none"
+        objectImage.style.display = "block"
+        orientationsAnimated.style.display = "none"
+        clearInterval(animationInterval)
+    } else if(animation == true) {
+        if(!buttons[0].classList.contains("clicked")) buttons[0].classList.add("clicked")
+        if(buttons[1].classList.contains("clicked")) buttons[1].classList.remove("clicked")
+        document.getElementById("animationBox").style.display = "flex"
+        objectImage.style.display = "none"
+        orientationsAnimated.style.display = "block"
+        animationInterval = setInterval(animate, 1000 * cycle)
+    }
+}
 
 const generateTags = () => {
     tags = []
@@ -81,7 +173,14 @@ const simulatorWindow = () => {
 
     simulator.loadFile("simulator.html");
     simulator.once("ready-to-show", (event) => {
-        simulator.webContents.send('image-sent', objectImage.src)
+        simulator.webContents.send('image-sent', objectImage.src, {
+            "bidirectional": directional,
+            "animated": animated,
+            "animation": {
+                "frames": frames,
+                "frameLength": cycle
+            }
+        })
     })
 }
 
@@ -179,11 +278,16 @@ iconImage.addEventListener("click", (event) => {
     ipcRenderer.send('getpath', 'icon')
 })
 
+orientationsAnimated.addEventListener("click", (event) => {
+    ipcRenderer.send('getpath', 'object')
+})
+
 objectImage.addEventListener("click", (event) => {
     ipcRenderer.send('getpath', 'object')
 })
 
 ipcRenderer.on('gottenpath', (event, type, path) => {
+    if(path["canceled"]) return
     switch(type) {
         case "folder":
             filepath = path["filePaths"][0]
@@ -193,7 +297,19 @@ ipcRenderer.on('gottenpath', (event, type, path) => {
             iconImage.src = path["filePaths"][0]
             break
         case "object":
+            let old = objectImage.style.display
+            objectImage.style.display = "block"
             objectImage.src = path["filePaths"][0]
+            objectImage.onload = () => {
+                width = maxWidth = objectImage.width
+                height = maxHeight = objectImage.height
+                orientationsAnimated.style.backgroundImage = `url(${objectImage.src})`
+                orientationsAnimated.style.width = `${width}px`
+                orientationsAnimated.style.height = `${height}px`
+                orientationsAnimated.style.backgroundSize = `${width}px ${height}px`
+                objectImage.style.display = old
+                cursorPos.innerHTML = `[-${width / 2}, 0]`
+            }
             break
     }
     

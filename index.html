@@ -110,23 +110,32 @@
               <button id="simButton" onclick="simulatorWindow()">Change Placement and Size</button>
               <div class="hbox">
                 <div class="vbox" style="width: 50%">
-                  <span>Bi-Directional:</span>
                   <span>Cursor Position:</span>
+                  <span>Bi-Directional:</span>
+                  <span>Animated:</span>
+                </div>
+                <div class="vbox" style="width: 50%">
+                  <span id="cursorPos">[-5, 0]</span>
+                  <span id="directional"><div class="hbox"><button class="directionalButton clicked" onclick="changeDirectionality(2)">True</button><button class="directionalButton" onclick="changeDirectionality(1)">False</button></div></span>
+                  <span id="animated"><div class="hbox"><button class="animationButton" onclick="changeAnimation(true)">True</button><button class="animationButton clicked" onclick="changeAnimation(false)">False</button></div></span>
+                </div>
+              </div>
+              <div id="animationBox" class="hbox">
+                <div class="vbox" style="width: 50%">
                   <span>Frames:</span>
                   <span>Animation Cycle:</span>
                 </div>
                 <div class="vbox" style="width: 50%">
-                  <span id="directional">False</span>
-                  <span id="cursorPos">[-5, 0]</span>
-                  <span id="frames">1</span>
-                  <span id="animationCycle">1.0</span>
+                  <span id="frames"><input id="animationFrames" onchange="newFrames()" type="number" min="1" step="1" value="1"></span>
+                  <span id="animationCycle"><input id="animationTime" onchange="newTime()" type="number" min=".01" step=".01" value="1">s</span>
                 </div>
               </div>
             </div>
           </div>
           <div class="hbox" style="align-items: center; justify-content: center; padding: 10px 0; ">
             <div class="vbox descriptionBox">
-              <img id="orientations" src="assets/basesprite.png" style="max-width: 164px; width: 164px; max-height: 164px; margin-top: 20px;">
+              <img id="orientations" src="assets/basesprite.png" style="max-width: 164px; width: 164px; margin-top: 20px;">
+              <div id="orientationsAnimated" style="display: none; background-image: url('assets/basesprite.png'); width: 164px; height: 147.594px; background-size: 164px 147.594px"></div>
               <textarea id="description">It's a perfectly generic item, perhaps a bit too perfect.</textarea>
             </div>
           </div>
