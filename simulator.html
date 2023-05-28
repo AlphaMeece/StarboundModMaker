@@ -13,8 +13,12 @@
   </head>
   <body onload="PR.prettyPrint()">
     <canvas id="simulatorCanvas"></canvas>
-    <button id="leftButton" class="directional left" onclick="left()"><img src="./assets/leftArrow.png"></button>
-    <button id="rightButton" class="directional right" onclick="right()"><img src="./assets/rightArrow.png"></button>
+    <button id="leftButton" class="directional left" onclick="left()"><img src="./assets/simulatorWindow/leftArrow.png"></button>
+    <button id="rightButton" class="directional right" onclick="right()"><img src="./assets/simulatorWindow/rightArrow.png"></button>
+    <button id="topButton" class="hold top" onclick="topRender()"><img src="./assets/simulatorWindow/topHold.png"></button>
+    <button id="noHoldButton" class="hold left" onclick="noHold()"><img src="./assets/simulatorWindow/noHold.png"></button>
+    <button id="backgroundButton" class="hold right" onclick="backgroundHold()"><img src="./assets/simulatorWindow/backgroundHold.png"></button>
+    <button id="bottomButton" class="hold bottom" onclick="bottom()"><img src="./assets/simulatorWindow/bottomHold.png"></button>
     <div id="scaleContainer">
       <input onchange="updateSpan()" value="1.00" type="range" id="sizeSlider" list="scale" min="0.25" max="5" step="0.25">
       <div id="topBox"></div>

@@ -15,6 +15,8 @@ let objectImage
 let directional
 let lButton, rButton
 let direction = "right"
+let topButton, bottomButton, noHoldButton, backgroundButton
+let hold = "bottom"
 let zoom = 1;
 let animated = false
 let frames, cycle, frameWidth
@@ -43,19 +45,66 @@ const draw = () => {
     canvas.height = height = window.innerHeight
     canvas.width = width = window.innerWidth
     ctx.imageSmoothingEnabled = false
-    if(background) ctx.drawImage(background, width/2 - bWidth, height - bHeight * 2, bWidth * 2, bHeight * 2)
+    if(background) {
+        switch(hold) {
+            case "bottom":
+                ctx.drawImage(background, width/2 - bWidth, height - bHeight * 2, bWidth * 2, bHeight * 2)
+                break
+            case "top":
+                ctx.drawImage(background, width/2 - bWidth, 0, bWidth * 2, bHeight * 2)
+                break
+            case "background":
+                ctx.drawImage(background, width/2 - bWidth, height/2 - bHeight, bWidth * 2, bHeight * 2)
+                break
+            case "noHold":
+                ctx.drawImage(background, width/2 - bWidth, height - bHeight * 2, bWidth * 2, bHeight * 2)
+                break
+        }
+    }
     if(objectImage) {
+        let tHeight
+        switch(hold) {
+            case "bottom":
+                tHeight = height - oHeight * 2 * zoom - 16
+                break
+            case "top":
+                tHeight = 16
+                break
+            case "background":
+                tHeight = height / 2 - oHeight * zoom
+                break
+            case "noHold":
+                tHeight = height / 2 - oHeight * zoom
+                break
+        }
         if(!animated) {
-            if(direction == "left") mirror(objectImage, 0, 0, oWidth, oHeight, width/2 - oWidth * zoom, height - oHeight * 2 * zoom - 16, oWidth * 2 * zoom, oHeight * 2 * zoom)
-            else ctx.drawImage(objectImage, 0, 0, oWidth, oHeight, width/2 - oWidth * zoom, height - oHeight * 2 * zoom - 16, oWidth * 2 * zoom, oHeight * 2 * zoom)
+            if(direction == "left") mirror(objectImage, 0, 0, oWidth, oHeight, width/2 - oWidth * zoom, tHeight, oWidth * 2 * zoom, oHeight * 2 * zoom)
+            else ctx.drawImage(objectImage, 0, 0, oWidth, oHeight, width/2 - oWidth * zoom, tHeight, oWidth * 2 * zoom, oHeight * 2 * zoom)
         } else {
             if(frame >= frames) frame = 0
-            if(direction == "left") mirror(objectImage, frameWidth*frame, 0, frameWidth, oHeight, width/2 - frameWidth * zoom, height - oHeight * 2 * zoom - 16, frameWidth * 2 * zoom, oHeight * 2 * zoom)
-            else ctx.drawImage(objectImage, frameWidth*frame, 0, frameWidth, oHeight, width/2 - frameWidth * zoom, height - oHeight * 2 * zoom - 16, frameWidth * 2 * zoom, oHeight * 2 * zoom)
+            if(direction == "left") mirror(objectImage, frameWidth*frame, 0, frameWidth, oHeight, width/2 - frameWidth * zoom, tHeight, frameWidth * 2 * zoom, oHeight * 2 * zoom)
+            else ctx.drawImage(objectImage, frameWidth*frame, 0, frameWidth, oHeight, width/2 - frameWidth * zoom, tHeight, frameWidth * 2 * zoom, oHeight * 2 * zoom)
             frame++
         }
     }
-    if(cursor) ctx.drawImage(cursor, width/2, height - cHeight - 8, cWidth * 2, cHeight * 2)
+    if(cursor) {
+        let tHeight
+        switch(hold) {
+            case "bottom":
+                tHeight = height - cHeight - 8
+                break
+            case "top":
+                tHeight = 16 + oHeight * zoom
+                break
+            case "background":
+                tHeight = height / 2
+                break
+            case "noHold":
+                tHeight = height / 2
+                break
+        }
+        ctx.drawImage(cursor, width/2, tHeight, cWidth * 2, cHeight * 2)
+    }
 }
 
 const mirror = (image, sx, sy, sw, sh, x, y, w, h) => {
@@ -71,15 +120,19 @@ const startSimulator = () => {
 
     lButton = document.getElementById("leftButton")
     rButton = document.getElementById("rightButton")
+    topButton = document.getElementById("topButton")
+    bottomButton = document.getElementById("bottomButton")
+    noHoldButton = document.getElementById("noHoldButton")
+    backgroundButton = document.getElementById("backgroundButton")
     
-    background.src = "./assets/biggun.png"
+    background.src = "./assets/simulatorWindow/biggun.png"
     background.onload = () => {
         bHeight = background.height
         bWidth = background.width
         startDraw()
     }
 
-    cursor.src = "./assets/cursor.png"
+    cursor.src = "./assets/simulatorWindow/cursor.png"
 
     cursor.onload = () => {
         cHeight = cursor.height
@@ -89,16 +142,56 @@ const startSimulator = () => {
 }
 
 const left = () => {
-    lButton.firstChild.src = "./assets/leftArrowDisabled.png"
-    rButton.firstChild.src = "./assets/rightArrow.png"
+    lButton.firstChild.src = "./assets/simulatorWindow/leftArrowDisabled.png"
+    rButton.firstChild.src = "./assets/simulatorWindow/rightArrow.png"
     direction = "left"
     startDraw()
 }
 
 const right = () => {
-    lButton.firstChild.src = "./assets/leftArrow.png"
-    rButton.firstChild.src = "./assets/rightArrowDisabled.png"
+    lButton.firstChild.src = "./assets/simulatorWindow/leftArrow.png"
+    rButton.firstChild.src = "./assets/simulatorWindow/rightArrowDisabled.png"
     direction = "right"
+    startDraw()
+}
+
+const topRender = () => {
+    background.src = "./assets/simulatorWindow/biggunTop.png"
+    topButton.firstChild.src = "./assets/simulatorWindow/topHoldDisabled.png"
+    noHoldButton.firstChild.src = "./assets/simulatorWindow/noHold.png"
+    backgroundButton.firstChild.src = "./assets/simulatorWindow/backgroundHold.png"
+    bottomButton.firstChild.src = "./assets/simulatorWindow/bottomHold.png"
+    hold = "top"
+    startDraw()
+}
+
+const noHold = () => {
+    background.src = "./assets/simulatorWindow/biggunNoWalls.png"
+    topButton.firstChild.src = "./assets/simulatorWindow/topHold.png"
+    noHoldButton.firstChild.src = "./assets/simulatorWindow/noHoldDisabled.png"
+    backgroundButton.firstChild.src = "./assets/simulatorWindow/backgroundHold.png"
+    bottomButton.firstChild.src = "./assets/simulatorWindow/bottomHold.png"
+    hold = "noHold"
+    startDraw()
+}
+
+const backgroundHold = () => {
+    background.src = "./assets/simulatorWindow/biggun.png"
+    topButton.firstChild.src = "./assets/simulatorWindow/topHold.png"
+    noHoldButton.firstChild.src = "./assets/simulatorWindow/noHold.png"
+    backgroundButton.firstChild.src = "./assets/simulatorWindow/backgroundHoldDisabled.png"
+    bottomButton.firstChild.src = "./assets/simulatorWindow/bottomHold.png"
+    hold = "background"
+    startDraw()
+}
+
+const bottom = () => {
+    background.src = "./assets/simulatorWindow/biggun.png"
+    topButton.firstChild.src = "./assets/simulatorWindow/topHold.png"
+    noHoldButton.firstChild.src = "./assets/simulatorWindow/noHold.png"
+    backgroundButton.firstChild.src = "./assets/simulatorWindow/backgroundHold.png"
+    bottomButton.firstChild.src = "./assets/simulatorWindow/bottomHoldDisabled.png"
+    hold = "bottom"
     startDraw()
 }
 
@@ -122,6 +215,7 @@ ipcRenderer.on('image-sent', (event, image, data) => {
         oWidth = objectImage.width
         if(animated) frameWidth = oWidth / frames
         right()
+        bottom()
         startDraw()
     }
 })

@@ -40,6 +40,14 @@ app.on('browser-window-created', (_, window) => {
   require("@electron/remote/main").enable(window.webContents)
 })
 
+app.on('before-quit', (e) => {
+  win.webContents.send('closeWindows')
+  if(!force_quit) {
+    e.preventDefault()
+    win.hide()
+  }
+})
+
 ipcMain.on('getpath', (event, type) => {  
   
   dialog.showOpenDialog({ 

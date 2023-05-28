@@ -12,6 +12,7 @@ let filepath = null;
 let filepathSpan = document.getElementById("filepath")
 let cursorPos = document.getElementById("cursorPos")
 
+let realImage, trueWidth
 let framesInput = document.getElementById("animationFrames")
 let cycleInput = document.getElementById("animationTime")
 let orientationsAnimated = document.getElementById("orientationsAnimated")
@@ -68,6 +69,17 @@ const lcm = (a, b) => {
     return a * b / hcf
 }
 
+const sendImage = () => {
+    simulator.webContents.send('image-sent', objectImage.src, {
+        "bidirectional": directional,
+        "animated": animated,
+        "animation": {
+            "frames": frames,
+            "frameLength": cycle
+        }
+    })
+}
+
 const animate = () => {
     if(offset - width < -maxWidth) offset = 0
     orientationsAnimated.style.backgroundPositionX = `${offset}px`
@@ -75,18 +87,22 @@ const animate = () => {
 }
 
 const newFrames = () => {
+    let old = frames
     clearInterval(animationInterval)
     offset = 0
     frames = +framesInput.value
-    if(maxHeight <= 80) {
-        let m = lcm(maxHeight, frames) / maxHeight
-        if(maxWidth * m / frames < 512) {
-            maxHeight *= m
-            height *= m
-            maxWidth *= m
-        }
-        console.log(maxWidth, maxHeight)
+    cursorPos.innerHTML = `[-${trueWidth / frames / 2}, 0]`
+    for(let i = 0; i < frames-old; i++) {
+        if(maxHeight <= 80) {
+            let m = lcm(maxHeight, old+i) / maxHeight
+            if(maxWidth * m / (old+i) < 512) {
+                maxHeight *= m
+                height *= m
+                maxWidth *= m
+            }
+        }   
     }
+    
     width = maxWidth / frames
     orientationsAnimated.style.backgroundImage = `url(${objectImage.src})`
     orientationsAnimated.style.width = `${width}px`
@@ -94,6 +110,7 @@ const newFrames = () => {
     orientationsAnimated.style.backgroundSize = `${maxWidth}px ${height}px`
     animate()
     animationInterval = setInterval(animate, 1000 * cycle)
+    if(simulator) sendImage()
 }
 
 const newTime = () => {
@@ -102,6 +119,7 @@ const newTime = () => {
     clearInterval(animationInterval)
     animate()
     animationInterval = setInterval(animate, 1000 * cycle)
+    if(simulator) sendImage()
 }
 
 const changeDirectionality = (direction) => {
@@ -115,6 +133,7 @@ const changeDirectionality = (direction) => {
         if(buttons[1].classList.contains("clicked")) buttons[1].classList.remove("clicked")
         directional = true
     }
+    if(simulator) sendImage()
 }
 
 const changeAnimation = (animation) => {
@@ -135,6 +154,7 @@ const changeAnimation = (animation) => {
         orientationsAnimated.style.display = "block"
         animationInterval = setInterval(animate, 1000 * cycle)
     }
+    if(simulator) sendImage()
 }
 
 const generateTags = () => {
@@ -160,6 +180,11 @@ const loadJSON = () => {
 }
 
 const simulatorWindow = () => {
+    if(simulator) {
+        let ans = prompt("Warning: Simulator window is already open, to close the window please type \"CLOSE\"")
+        if(ans == "CLOSE") simulator.close()
+        simulator = null
+    }
     simulator = new remote.BrowserWindow({
     width: 1280,
     height: 768,
@@ -173,14 +198,10 @@ const simulatorWindow = () => {
 
     simulator.loadFile("simulator.html");
     simulator.once("ready-to-show", (event) => {
-        simulator.webContents.send('image-sent', objectImage.src, {
-            "bidirectional": directional,
-            "animated": animated,
-            "animation": {
-                "frames": frames,
-                "frameLength": cycle
-            }
-        })
+        sendImage()
+    })
+    simulator.on('close', () => {
+        simulator = null
     })
 }
 
@@ -300,6 +321,12 @@ ipcRenderer.on('gottenpath', (event, type, path) => {
             let old = objectImage.style.display
             objectImage.style.display = "block"
             objectImage.src = path["filePaths"][0]
+            realImage = new Image()
+            realImage.src = objectImage.src
+            realImage.onload = () => {
+                trueWidth = realImage.width
+                cursorPos.innerHTML = `[-${trueWidth / 2}, 0]`
+            }
             objectImage.onload = () => {
                 width = maxWidth = objectImage.width
                 height = maxHeight = objectImage.height
@@ -308,16 +335,20 @@ ipcRenderer.on('gottenpath', (event, type, path) => {
                 orientationsAnimated.style.height = `${height}px`
                 orientationsAnimated.style.backgroundSize = `${width}px ${height}px`
                 objectImage.style.display = old
-                cursorPos.innerHTML = `[-${width / 2}, 0]`
+                if(simulator) sendImage()
             }
             break
     }
     
 })
 
+ipcRenderer.on('closeWindows', (event) => {
+    if(simulator) simulator.close()
+})
+
 descriptionCheckbox.addEventListener("change", (event) => {
     if(event.target.checked) {
-        apexDescription.children[0].src = "assets/aiIcon.png"
+        apexDescription.children[0].src = "assets/mainWindow/aiIcon.png"
         avianDescription.style.display = "none"
         floranDescription.style.display = "none"
         glitchDescription.style.display = "none"
@@ -325,7 +356,7 @@ descriptionCheckbox.addEventListener("change", (event) => {
         hylotlDescription.style.display = "none"
         novakidDescription.style.display = "none"
     } else {
-        apexDescription.children[0].src = "assets/apexIcon.png"
+        apexDescription.children[0].src = "assets/mainWindow/apexIcon.png"
         avianDescription.style.display = ""
         floranDescription.style.display = ""
         glitchDescription.style.display = ""

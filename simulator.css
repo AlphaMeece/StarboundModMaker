@@ -18,12 +18,45 @@ body {
     image-rendering: pixelated;
 }
 
+.hold {
+    position: absolute;
+    top: 8px;
+    background: none;
+    border: none;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+}
+
+.hold > img {
+    width: 64px;
+    image-rendering: pixelated;
+}
+
 .left {
     left: 8px;
 }
 
 .right {
     left: 80px;
+}
+
+.top {
+    left: 8px;
+    top: 80px;
+}
+
+.hold.left, .hold.right {
+    top: 150px;
+}
+
+.bottom {
+    left: 8px;
+    top: 215px;
+}
+
+.top > img, .bottom > img {
+    width: 136px;
 }
 
 #scaleContainer {
