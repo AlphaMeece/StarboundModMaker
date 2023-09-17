@@ -4,16 +4,16 @@ let { BrowserWindow } = electron
 const path = require("path")
 require("@electron/remote/main").initialize()
 
-try {
-  require('electron-reloader')(module, {ignore: [/userTags/]})
-} catch (_) {}
+// try {
+//   require('electron-reloader')(module, {ignore: [/userTags/]})
+// } catch (_) {}
 
 let win = null
 
 const createWindow = () => {
   win = new BrowserWindow({
-    width: 1280,
-    height: 768,
+    width: 1536,
+    height: 902,
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false,
@@ -59,3 +59,7 @@ ipcMain.on('getpath', (event, type) => {
     console.error(error)
   })
 });
+
+ipcMain.on("heredata-pass-along", (event, data) => {
+  win.webContents.send('simulator-data', data)
+})

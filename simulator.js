@@ -94,7 +94,7 @@ const draw = () => {
                 tHeight = height - cHeight - 8
                 break
             case "top":
-                tHeight = 16 + oHeight * zoom
+                tHeight = 16 + 8
                 break
             case "background":
                 tHeight = height / 2
@@ -218,4 +218,11 @@ ipcRenderer.on('image-sent', (event, image, data) => {
         bottom()
         startDraw()
     }
+})
+
+ipcRenderer.on('gimme-data', (event) => {
+    ipcRenderer.send('heredata-pass-along', {
+        "anchor": hold,
+        
+    })
 })
